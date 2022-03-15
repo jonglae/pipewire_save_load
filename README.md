@@ -12,5 +12,10 @@ ex> python ./pw-loadwires.py filename<br>
 pw-savewires.sh --> save the current connected state<br>
 <br>
 ex> ./pw-savewires.sh filename<br>
+
+<br><br><br><br>
+https://www.youtube.com/watch?v=bGjCHO-_Ets&t=44s
 </h3>
+
+
 

@@ -14,7 +14,8 @@ pw-savewires.sh --> save the current connected state<br>
 ex> ./pw-savewires.sh filename<br>
 
   
-execution example
+  Execution example
+  
   OSB_REC01.sh
   
     ./pw-dewire.sh
@@ -26,6 +27,11 @@ execution example
 Youtube tutorial   
 <br>
 https://www.youtube.com/watch?v=bGjCHO-_Ets&t=44s
+  
+<br>
+Discord
+<br>
+https://discord.com/channels/953087006232174673/953308997774086214
 </h3>
 
 

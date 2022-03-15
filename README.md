@@ -12,6 +12,11 @@ ex> python ./pw-loadwires.py filename<br>
 pw-savewires.sh --> save the current connected state<br>
 <br>
 ex> ./pw-savewires.sh filename<br>
+  
+  
+  OSB_REC01.sh
+  
+  
 
 <br><br><br>
 Youtube tutorial   
